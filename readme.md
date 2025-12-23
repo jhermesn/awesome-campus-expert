@@ -33,7 +33,6 @@ Resources for learning or teaching languages, techniques, skills etc.
 - [GitHub Flow](https://guides.github.com/introduction/flow/) - Guide that explains how and why GitHub Flow work
 - [On Demand Training](https://services.github.com/on-demand/) - On demand training material for various Git and GitHub tools such a command line and GitHub Pages
 - :triangular_flag_on_post: [Lionex/github-workshop](https://github.com/Lionex/github-workshop) - Originally created for HackFSU '17, this workshop hopes to introduce new hackers to the basics of using git with GitHub.
-
 ### Markdown
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - GitHub guide to mastering GitHub flavoured markdown
